@@ -1,0 +1,19 @@
+.card{
+   border: none;
+}
+h1{
+   font-weight: bold;
+   font-size: 3rem;
+}
+
+p{
+   color: rgb(80, 74, 74);
+}
+span {
+   color: blueviolet;
+}
+
+.next-btn:hover,
+.prev-btn:hover{
+   cursor: pointer;
+}
